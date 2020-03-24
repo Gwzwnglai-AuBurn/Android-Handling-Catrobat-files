@@ -50,8 +50,6 @@ So files named with an .something before the final extension This file manager c
 
 ##
 
-#### Direct download google chrome:
-
 #### [![Direct download google chrome](https://raw.githubusercontent.com/Gwzwnglai-AuBurn/Android-Handling-Catrobat-files/master/img/google_chrome_logo.png)  Direct download google chrome](#)
 
 | File                                    | Mimetype             |
