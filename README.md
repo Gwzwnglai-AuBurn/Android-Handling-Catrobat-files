@@ -22,6 +22,7 @@
 | pro je ct.catrobat                             | application/octet-stream      | 
 | project.catrobat                             | application/octet-stream      | 
 
+##
 
 #### [![Astro File manager](https://raw.githubusercontent.com/Gwzwnglai-AuBurn/Android-Handling-Catrobat-files/master/img/Astro%20file%20manager.png)  Astro File manager](https://play.google.com/store/apps/details?id=com.metago.astro&hl=en_US)
 
@@ -37,6 +38,7 @@ This file manager handled the .catrobat files extension with regex : pathPattern
 So files named with an .something before the final extension This file manager cannot find app to open file.
 (i.e. could not open file named  name.something.catrobat
 
+##
 
 #### [![Files by google](https://raw.githubusercontent.com/Gwzwnglai-AuBurn/Android-Handling-Catrobat-files/master/img/files-by-google.png)  Files by google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en_US)
 
@@ -46,6 +48,7 @@ So files named with an .something before the final extension This file manager c
 | not project files (such as random txt file) renamed to have .catrobat extension | application/octet-stream      | 
 |projects recieved from other sources (such as whatsapp or copying to mobile internal storage in pc/mac)                      |application/octet-stream| 
 
+##
 
 ### Direct download google chrome:
 
