@@ -38,7 +38,8 @@
 | pro je ct.catrobat                      | *      | 
 | project.catrobat                        | *      | 
 
-This file manager handled the .catrobat files extension with regex : pathPattern=".*\\.catrobat"
+This file manager handled the .catrobat files extension with regex : pathPattern=".* \\.catrobat"
+
 So files named with an .something before the final extension This file manager cannot find app to open file.
 (i.e. could not open file named  name.something.catrobat
 
