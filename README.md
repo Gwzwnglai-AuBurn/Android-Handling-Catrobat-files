@@ -11,6 +11,7 @@
 | pro je ct.catrobat                             | application/zip      | 
 | project.catrobat                             | application/zip      | 
 
+![](https://raw.githubusercontent.com/Gwzwnglai-AuBurn/Android-Handling-Catrobat-files/master/screenshots/recieving%20whatsapp.jpg)
 
 
 ##### Sending .catrobat files on Whatsapp:
@@ -21,6 +22,8 @@
 | 12827copy.catrobat                             | application/octet-stream      | 
 | pro je ct.catrobat                             | application/octet-stream      | 
 | project.catrobat                             | application/octet-stream      | 
+
+![](https://raw.githubusercontent.com/Gwzwnglai-AuBurn/Android-Handling-Catrobat-files/master/screenshots/sending%20whatsapp.jpg)
 
 ##
 
@@ -45,8 +48,8 @@ So files named with an .something before the final extension This file manager c
 | File                                    | Mimetype             |
 |-----------------------------------------|-----------------|
 | projects directly downloaded from share.catrob.at  | application/zip        |
-| not project files (such as random txt file) renamed to have .catrobat extension | application/octet-stream      | 
 |projects recieved from other sources (such as whatsapp or copying to mobile internal storage in pc/mac)                      |application/octet-stream| 
+| not project files (such as random txt file) renamed to have .catrobat extension (resulting in failure to import | application/octet-stream      | 
 
 ##
 
@@ -62,4 +65,8 @@ So files named with an .something before the final extension This file manager c
 
 
 *files recieved from forwarded files are treated either x-zip or zip*
+
+*files uploaded to drive changes them to zip. If the file extension .zip is removed - most apps treat the files as application/octet-stream  
+
+##
 *These are results of testing on Zte Blade v8 mini android 7.1.1 api level-26*
