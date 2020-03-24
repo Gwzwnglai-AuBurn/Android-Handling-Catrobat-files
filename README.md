@@ -13,6 +13,7 @@
 
 ![](https://raw.githubusercontent.com/Gwzwnglai-AuBurn/Android-Handling-Catrobat-files/master/screenshots/recieving%20whatsapp.jpg)
 
+*in some cases of project names whatsapp uses application/x-zip (in some devices)*
 
 ##### Sending .catrobat files on Whatsapp:
 | File                                    | Mimetype             |
