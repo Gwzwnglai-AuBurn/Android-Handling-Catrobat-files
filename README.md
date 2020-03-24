@@ -1,6 +1,8 @@
 # Android-Handling-Catrobat-files
 
-### Recieving .catrobat files on Whatsapp:
+#### [![Whatsapp](https://raw.githubusercontent.com/Gwzwnglai-AuBurn/Android-Handling-Catrobat-files/master/img/whatsapp.png)  Whatsapp](https://www.whatsapp.com/)
+
+##### Recieving .catrobat files on Whatsapp:
 | File                                    | Mimetype             |
 |-----------------------------------------|-----------------|
 | 743(1).catrobat                         |  application/zip        |
@@ -11,7 +13,7 @@
 
 
 
-### Sending .catrobat files on Whatsapp:
+##### Sending .catrobat files on Whatsapp:
 | File                                    | Mimetype             |
 |-----------------------------------------|-----------------|
 | 743(1).catrobat                         |  application/octet-stream        |
@@ -21,8 +23,8 @@
 | project.catrobat                             | application/octet-stream      | 
 
 
-####
-### Astro file manager:
+#### [![Astro File manager](https://raw.githubusercontent.com/Gwzwnglai-AuBurn/Android-Handling-Catrobat-files/master/img/Astro%20file%20manager.png)  Astro File manager](https://play.google.com/store/apps/details?id=com.metago.astro&hl=en_US)
+
 | File                                    | Mimetype             |
 |-----------------------------------------|-----------------|
 | 743(1).catrobat                         | *        |
@@ -36,8 +38,8 @@ So files named with an .something before the final extension This file manager c
 (i.e. could not open file named  name.something.catrobat
 
 
+#### [![Files by google](https://raw.githubusercontent.com/Gwzwnglai-AuBurn/Android-Handling-Catrobat-files/master/img/files-by-google.png)  Files by google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en_US)
 
-### Files by google:
 | File                                    | Mimetype             |
 |-----------------------------------------|-----------------|
 | projects directly downloaded from share.catrob.at  | application/zip        |
